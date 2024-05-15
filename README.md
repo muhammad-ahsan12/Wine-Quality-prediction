@@ -5,7 +5,7 @@ This repository contains code for predicting the quality of wine using random fo
 The dataset used in this project is publicly available on the UCI Machine Learning Repository. It contains a collection of wine samples with several attributes related to their chemical composition and quality rating provided by experts.
 
 Wine Dataset: [link](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
-#Dependencies
+# Dependencies
 To run the code in this repository, you'll need the following Python libraries:
 pandas
 numpy
@@ -26,9 +26,6 @@ Open your web browser and go to the provided URL (usually http://localhost:8501)
 Follow the instructions on the interface to input the wine attributes and get predictions for wine quality.
  Streamlit App
 The Streamlit app (app.py) included in this repository provides a simple interface for users to input the physicochemical properties of wine and receive predictions for wine quality based on the trained random forest model.
-
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Acknowledgements
 The wine quality dataset is sourced from the UCI Machine Learning Repository. Citation details are provided in the dataset link above.
